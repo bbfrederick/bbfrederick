@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm an Associate Professor in Psychiatry, Harvard Medical School, and Associate Biophysicist, McLean Hospital and Director of the Technical and Instrumentation Core at the Brain Imaging Center. I received a BS in Physics from Yale University and a PhD in Biophysics from the University of California at Berkeley, back when dinosaurs roamed the Earth. My training is in MR physics, and my PhD thesis is entitled “Three Dimensional Nuclear Magnetic Resonance Spectroscopic Imaging of Sodium Ions Using Stochastic Excitation and Oscillating Gradients”. If  stochastic NMR with oscillating gradients is the solution to your problem, I'd gently suggest finding a different problem.
+I'm an Associate Professor in Psychiatry, Harvard Medical School, and Associate Biophysicist, McLean Hospital and Director of the Technical and Instrumentation Core at the Brain Imaging Center. I received a BS in Physics from Yale University and a PhD in Biophysics from the University of California at Berkeley, back when dinosaurs roamed the Earth. 
+
+My training is in MR physics, and my PhD thesis is entitled “Three Dimensional Nuclear Magnetic Resonance Spectroscopic Imaging of Sodium Ions Using Stochastic Excitation and Oscillating Gradients”. If  stochastic NMR with oscillating gradients is the solution to your problem, I'd gently suggest finding a different problem.
 
 I'm also the Director of the McLean Hospital Opto Magnetic Group, and my research is focused on multimodal acquisition and processing for hemodynamic quantitation and physiological denoising of BOLD and NIRS data.
 
